@@ -476,6 +476,16 @@ html { box-sizing: border-box; }
 .text-white a { color: #f8f8f8; }
 .bg-white     { background-color: #f8f8f8 !important; }
 
+.border-garnet { border-color: #782F40 !important; }
+.text-garnet   { color: #782F40; }
+.text-garnet a { color: #782F40; }
+.bg-garnet     { background-color: #782F40 !important; }
+
+.border-gold { border-color: #CEB888 !important; }
+.text-gold   { color: #CEB888; }
+.text-gold a { color: #CEB888; }
+.bg-gold     { background-color: #CEB888 !important; }
+
 .border-blue { border-color: #49a7e9 !important; }
 .text-blue   { color: #49a7e9; }
 .text-blue a { color: #49a7e9; }
@@ -507,34 +517,34 @@ html { box-sizing: border-box; }
   
   
   
-  nav .p-about { border-color: #63BD2F; }
-  #about { background-color: #63BD2F !important; color: #f8f8f8; }
+  nav .p-about { border-color: #111111; }
+  #about { background-color: #111111 !important; color: #f8f8f8; }
   #about a { color: #f8f8f8; }
-  #about .sectiondivider { color: #63BD2F; }
+  #about .sectiondivider { color: #111111; }
 
   
   
   
-  nav .p-news { border-color: #c869bf; }
-  #news { background-color: #c869bf !important; color: #f8f8f8; }
-  #news a { color: #f8f8f8; }
-  #news .sectiondivider { color: #c869bf; }
+  nav .p-news { border-color: #782F40; }
+  #news { background-color: #782F40 !important; color: #CEB888; }
+  #news a { color: #CEB888; }
+  #news .sectiondivider { color: #782F40; }
 
   
   
   
-  nav .p-events { border-color: #fab125; }
-  #events { background-color: #fab125 !important; color: #111111; }
+  nav .p-events { border-color: #CEB888; }
+  #events { background-color: #CEB888 !important; color: #111111; }
   #events a { color: #111111; }
-  #events .sectiondivider { color: #fab125; }
+  #events .sectiondivider { color: #CEB888; }
 
   
   
   
-  nav .p-guests { border-color: #49a7e9; }
-  #guests { background-color: #49a7e9 !important; color: #f8f8f8; }
+  nav .p-guests { border-color: #782F40; }
+  #guests { background-color: #782F40 !important; color: #f8f8f8; }
   #guests a { color: #f8f8f8; }
-  #guests .sectiondivider { color: #49a7e9; }
+  #guests .sectiondivider { color: #782F40; }
 
   
   
@@ -641,7 +651,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background:#782F40;
 }
 
 nav ul {
@@ -704,7 +714,7 @@ nav ul li:hover, nav ul li.active {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color:#111111;
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
