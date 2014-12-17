@@ -21,7 +21,7 @@ html { box-sizing: border-box; }
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; }
+  #{{id}} a { color: {{ fg }}; font-weight: bold; }
   {% if bg == '#f8f8f8' %}
     #{{id}} .sectiondivider { color: {{ fg }}; }
   {% else %}
@@ -263,24 +263,40 @@ nav ul li:hover, nav ul li.active a {
 
 /* ----- social media links ----- */
 .social ul {
- text-align: center;
+  text-align: center;
 }
  
 .social ul li {
- list-style-type: none;
- display: inline-block;
- float: none;
+  list-style-type: none;
+  display: inline-block;
+  float: none;
 }
  
 .social ul li a i {
- color: #782F40;
- margin-left: 25px;
- margin-right: 25px;
- padding-top: 15%;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 10%;
 }
 
 .social ul li a i:hover {
   opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55acee;
+}
+
+.fa-facebook {
+  background:#3b5998;
+}
+
+.fa-envelope {
+  background:#CEB888;
 }
 
 

@@ -92,8 +92,8 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { text-decoration: underline; outline: 0; }
-	a:hover, a:focus { }
+	a, a:visited { text-decoration: none; }
+	a:hover, a:focus { text-decoration: underline; }
 	p a, p a:visited { line-height: inherit; }
 
 
@@ -531,7 +531,7 @@ html { box-sizing: border-box; }
   
   nav .p-about { border-color: #111111; }
   #about { background-color: #111111 !important; color: #f8f8f8; }
-  #about a { color: #f8f8f8; }
+  #about a { color: #f8f8f8; font-weight: bold; }
   
     #about .sectiondivider { color: #111111; }
   
@@ -541,7 +541,7 @@ html { box-sizing: border-box; }
   
   nav .p-program { border-color: #f8f8f8; }
   #program { background-color: #f8f8f8 !important; color: #111111; }
-  #program a { color: #111111; }
+  #program a { color: #111111; font-weight: bold; }
   
     #program .sectiondivider { color: #111111; }
   
@@ -551,7 +551,7 @@ html { box-sizing: border-box; }
   
   nav .p-events { border-color: #CEB888; }
   #events { background-color: #CEB888 !important; color: #111111; }
-  #events a { color: #111111; }
+  #events a { color: #111111; font-weight: bold; }
   
     #events .sectiondivider { color: #CEB888; }
   
@@ -561,7 +561,7 @@ html { box-sizing: border-box; }
   
   nav .p-guests { border-color: #782F40; }
   #guests { background-color: #782F40 !important; color: #CEB888; }
-  #guests a { color: #CEB888; }
+  #guests a { color: #CEB888; font-weight: bold; }
   
     #guests .sectiondivider { color: #782F40; }
   
@@ -571,7 +571,7 @@ html { box-sizing: border-box; }
   
   nav .p-intro { border-color: #f8f8f8; }
   #intro { background-color: #f8f8f8 !important; color: #111111; }
-  #intro a { color: #111111; }
+  #intro a { color: #111111; font-weight: bold; }
   
     #intro .sectiondivider { color: #111111; }
   
@@ -811,24 +811,40 @@ nav ul li:hover, nav ul li.active a {
 
 /* ----- social media links ----- */
 .social ul {
- text-align: center;
+  text-align: center;
 }
  
 .social ul li {
- list-style-type: none;
- display: inline-block;
- float: none;
+  list-style-type: none;
+  display: inline-block;
+  float: none;
 }
  
 .social ul li a i {
- color: #782F40;
- margin-left: 25px;
- margin-right: 25px;
- padding-top: 15%;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-top: 10%;
 }
 
 .social ul li a i:hover {
   opacity: 0.7;
+}
+
+.fa-twitter {
+  background: #55acee;
+}
+
+.fa-facebook {
+  background:#3b5998;
+}
+
+.fa-envelope {
+  background:#CEB888;
 }
 
 
