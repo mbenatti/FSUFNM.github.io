@@ -227,7 +227,7 @@ nav ul li:hover, nav ul li.active a {
   position: static;
   margin-top: 57px;
 }
-.sectiondivider .fa-circle { color: #fff; }
+.sectiondivider .fa-circle { color: #f8f8f8; }
 
 .sectiondivider h5 {
   font-size:0px;
@@ -255,10 +255,6 @@ nav ul li:hover, nav ul li.active a {
   -webkit-column-gap: 40px;
   -moz-column-gap:    40px;
   column-gap:         40px;
-
-  -webkit-column-rule: 1px outset rgba(255,255,255,0.5);
-  -moz-column-rule:    1px outset rgba(255,255,255,0.5);
-  column-rule:         1px outset rgba(255,255,255,0.5);
 }
 .longlist { font-size: 14px !important; }
 .longlist li { margin-bottom: 3px; }
