@@ -1,6 +1,6 @@
 ---
 title: "katz"
-composer: "Jonathan Katz"
+composer: "Jonathan Howard Katz"
 composition: "Trace"
-performers: "Jonathan Katz, piano; Leigh Schanfein, dancer"
+performers: "Jonathan Howard Katz, piano; Leigh Schanfein, dancer; Hee Ra Yoo, choreographer"
 ---
