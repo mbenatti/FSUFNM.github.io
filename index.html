@@ -23,8 +23,7 @@
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
       {% endfor %}
     </ul></nav>
-
-
+    
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
       <div id="{{id}}" class="section p-{{id}}">
@@ -47,7 +46,6 @@
         </div>
       </div>
     {% endfor %}
-
 
     <div id="footer" class="section text-white">
       <div class="container">

@@ -14,10 +14,16 @@
 .container .column       { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
 .row                     { margin-bottom: 20px; }
 
+.container .small-offset.row	{ margin-left: 16.666666%; }
+.container .medium-offset.row	{ margin-left: 33%; }
+
 .container .small.column { width: 300px; }
 .container .half.column  { width: 460px; }
 .container .big.column   { width: 620px; }
 .container .full.column  { width: 940px; }
+.container .title.column { width: 50%; }
+.container .composer.column { width: 25% }
+.container .performer.column { width: 50% }
 
 
 /* ----- Tablet (Portrait) -- 768px ----- */
@@ -36,10 +42,15 @@
     .container                { width:  96%; }
     .container .column        { margin:  1%; }
 
+	.container .small-offset.row	{ margin-left: 8.333333%; margin-bottom: 0px; }
+	.container .medium-offset.row	{ margin-left: 20%; }
+    
     .container .small.column { width: 48%; }
     .container .half.column  { width: 48%; }
     .container .big.column   { width: 98%; }
     .container .full.column  { width: 98%; }
+	.container .composer.column { width: 37.5% }
+	.container .performer.column { width: 75% }
   }
 
 
@@ -52,6 +63,7 @@
     .container .half.column  { width: 46%; }
     .container .big.column   { width: 96%; }
     .container .full.column  { width: 96%; }
+    .container .performer.column { width: 75% }
   }
 
 
