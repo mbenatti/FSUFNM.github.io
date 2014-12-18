@@ -1,0 +1,11 @@
+---
+composer: "Callender Clifton"
+composition: "gegenschein"
+date: 2009
+performers: "Piotr Szewczyk, violin"
+---
+**Clifton Callender** is Associate Professor of Composition at Florida State University, teraching composition and music theory and serving as Artistic Director of the FSU New Music Ensemble. His works are recorded on the Capstone, New Ariel, and Navona labels. Recent commissions include _Canonic Offerings_, for the Bridges Conference on the Arts and Mathematics, _gegenschein_, for Piotr Szewczyk’s Violin Futura project, _Reasons to Learne to Sing_, for the 50th Anniversary of the College Music Society, and _Metamorphoses II_, for the Florida State Music Teachers Association. His music has been recognized by and performed at the Spark Festival, SEAMUS, Forecast Music, Composers Inc., the Florida Electracoustic Music Festival, the American Composers Orchestra, the International Festival of Electroacoustic Music “Primavera en La Habana,” NACUSA Young Composers Competition, the Northern Arizona University Centennial Composition, the North American Saxophone Alliance Biennial Conferences, the World Harp Congress in Copenhagen and the ppIANISSIMO festival in Bulgaria. Also active in music theory, Callender has published in _Science_, _Perspectives of New Music_, _Journal of Music Theory_, _Music Theory Online_, and _Intégral_ and serves on the editorial boards of _Perspectives of New Music_ and the _Journal of Mathematics and Music_.
+
+|||
+
+The **_gegenschein_**, or counter shine, is a very feint brightening of the night sky centered on the point directly opposite the sun. It is a very indirect source of light—sunlight reflecting off of the very fine particles that make up interplanetary dust. This is an appropriate metaphor for the kind of sound world I have tried to create using a solo violin, a work consisting mostly of very fast arpeggiated and tremolo-like figures involving natural harmonics. Due to the speed of these figures, the harmonics only have time to partially sound, yielding a rapid succession of very feint overtones. The result is a fragile yet brilliant flickering of sound, mostly quiet and diffuse yet played with great intensity and aggression. My thanks to Piotr Szewczyk who commissioned and is premiering the work as part of his _Violin Futura_ project.

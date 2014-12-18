@@ -1,6 +1,6 @@
 ---
-title: "gravity"
-composer: "David Lang"
-composition: "before gravity, gravity, after gravity"
+composer: "Lang David"
+composition: "gravity"
+date: 2007
 performers: "with David Kalhous"
 ---

@@ -1,0 +1,11 @@
+---
+composer: "Zare Roger"
+composition: "Aerodynamics"
+date: 2009
+performers: "Matthew Williams, conductor"
+---
+**Roger Zare** has been praised for his “enviable grasp of orchestration” (*New York Times*) and for writing music with “formal clarity and an alluringly mercurial surface.” Often inspired by science and mathematics, Zare was born in Sarasota, Florida, and his works have been performed across the United States and abroad by such ensembles as the American Composers Orchestra, the Minnesota Orchestra, Boston Musica Viva, and the Minas Gerais Philharmonic Orchestra. An award-winning composer, Zare has received the ASCAP Nissim Prize, three BMI Student Composer Awards, an ASCAP Morton Gould award, the 2008 American Composers Orchestra Underwood Commission, a 2010 Charles Ives Scholarship from the American Academy of Arts and Letters, and many other local and regional honors. He currently serves as Composer in Residence of the SONAR new music ensemble. Zare holds degrees from the University of Michigan (D.M.A. 2012), Peabody Conservatory (M.M. 2009), and the University of Southern California (B.M. 2007).
+
+|||
+
+Inspired by a trip to Disneyland, **_Aerodynamics_** describes an imaginary flight on an open-air glider. In 2005, I went on a new ride at the California Adventure theme park called “Soarin' California,” during which I was suspended in the air with my legs dangling as if I were in a hang glider. I was immersed in imagery of landscapes that zoomed by as fans blew air at me to simulate incredible speed. I love high speeds and free flight, and *Aerodynamics* is my musical response to these visceral experiences. Musically, *Aerodynamics* is focused on the ebb and flow of fluid gestures, connected by a continuous stream of quickly repeated notes that represents the wind blowing at your face. Every line is echoed and mirrored so that a simple idea expands into a wash of sound. The listener may imagine taking flight throughout the piece, dipping and swooping as the shape of the music weaves its way from high to low and from small to large.

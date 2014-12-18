@@ -1,0 +1,11 @@
+---
+composer: "Szewczyk Piotr"
+composition: "Very Angry Birds"
+date: 2012
+performers: "Piotr Szewczyk, violin; Ileana Fernandez, piano"
+---
+**Piotr Szewczyk** is a violinist in the Jacksonville Symphony Orchestra and Composer in Residence at the Florida Chamber Music Project. He holds the degrees of B.M. and double M.M. in Violin and Composition from the University of Cincinnati College-Conservatory of Music and is finishing his doctorate at Florida State University in December 2014. He has received many awards including those from Rapido! Composition Contest, the American Modern Ensemble, the Third Millennium Ensemble, American Composers Forum, JSO Fresh Ink, and many others. His music has been performed by numerous ensembles and was featured on NPR’s *Performance Today* and the CBS Early Show. His piece *Apparitions* was recently released on Navona records’ NOVA CD and was called “magical” in a review in *Gramophone* Magazine. As a violinist Szewczyk is the creator and performer of the *Violin Futura Project*, a series of recitals of solo violin pieces written for him by renowned composers from around the word.
+
+|||
+
+**_Very Angry Birds_** depicts a sound world of musical ideas based on imaginary bird calls. The imaginary bird calls become the musical gestures and materials that propel the dramatic narrative of the piece. The piano part serves as a rhythmic and structural foundation for the bird calls to emerge from the violin part, where all the bird calls appear. The piece is set in ABAʹ form: slow middle section and fast, propulsive outer sections. The violin has an incredible potential for mimicking various bird calls, and in this piece I push the violin to its technical extremes to elucidate the sonic palette with various combined techniques. Being a violinist myself, I experimented at great lengths to invent new expressive sonic gestures imitating the complexities and sophistication of bird calls. In the middle section I’m using a col legno swipe from the bridge to the fingerboard to create an eerie, continuous shimmer as an example, along with a variety of other techniques throughout the piece such as glissandos, ricochets, harmonics, rhythmic patterns, wood tapping, tremolos, sul ponticello, pizzicato, indeterminate pitches, etc.

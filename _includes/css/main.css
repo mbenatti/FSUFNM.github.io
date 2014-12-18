@@ -21,7 +21,7 @@ html { box-sizing: border-box; }
   {% capture fg %}{% if site.colors[node.color] %}{{ site.colors[node.color] }}{% else %}{{ node.color }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; font-weight: bold; }
+  #{{id}} a { color: {{ fg }}; font-weight: 700; }
   {% if bg == '#f8f8f8' %}
     #{{id}} .sectiondivider { color: {{ fg }}; }
   {% else %}
@@ -192,7 +192,6 @@ nav ul li:hover, nav ul li.active a {
   min-height:0;
   text-align:center;
   background-color:#111111;
-  background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
 

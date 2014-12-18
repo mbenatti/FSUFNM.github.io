@@ -1,0 +1,12 @@
+---
+composer: "Kauhl Cody"
+composition: "Excursus: Three Art Songs for Soprano and Flexible Media"
+subtitles: ["I. …filmed in front of a live studio audience", "II. please, see your doctor…", "III. …and I approve this message"]
+date: 2014
+performers: "Margaret Jackson, soprano"
+---
+**Cody Kauhl** is an acoustic/electronic composer that investigates the hidden musical potential of urban and rural noise pollution. His work has been performed at international and national festivals and conferences including the Center of Cypriot Composers and the Society for Electro Acoustic Music in the United States. Kauhl graduated in 2011 with a B.M. in Music Theory and Composition from Southern Illinois University Edwardsville and recently completed his M.M. thesis in Music Composition at the University of Missouri-Kansas City. He regularly collaborates with choreographers and visual artists and has had his compositions performed at the Nelson-Atkins Museum of Art, Electronic Music Midwest, Electroacoustic Barn Dance, Great Plains Regional Tuba and Euphonium Conference, 60×60, Kansas City Electronic Music and Arts Alliance, Kansas City Fringe Festival, Paragraph Gallery, and PLUG Projects.
+
+|||
+
+**_Excursus_** explores the methods in which modern television broadcasting attempts to provide different facets of human desire, thus propagating the continued use of the medium. The composition consists of three songs, each of which focuses on instinctive, physical, or mental desires. Current television programming attempts to satisfy these desires with sitcoms, pharmaceutical ads, and political slander, respectively. Instead of communicating this message traditionally via voice and piano, prerecorded media serves as accompaniment to the soprano. I make the distinction in the title that the work calls for “soprano and flexible media.” This word choice stems from the desire for the media to truly act as an accompaniment; therefore, I constructed a set of twenty advancing electronic tracks, each of which have head room to quickly crossfade into the following clip. While utilizing Max 6 in performance, an “accompanist” advances these tracks upon careful observation of the vocalist and score.

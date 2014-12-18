@@ -1,0 +1,11 @@
+---
+composer: "Freund Don"
+composition: "Mixed Blood"
+date: 2013
+performers: "What Is Noise: Sarah Jane Young, flute; Anastasia Christofakis, clarinet; Megan Arns, percussion ; Cholong Park, piano; Joshua Burel, violin; Justin Page, cello"
+---
+**Don Freund** is an internationally recognized composer with works ranging from solo, chamber, and orchestral music to pieces involving live performances with electronic instruments, music for dance, and large theatre works. He has been described as “ a composer thoughtful in approach and imaginative in style” (*The Washington Post*) whose music is “exciting, amusing, disturbing, beautiful, and always fascinating” (*Music and Musicians*, London). The recipient of numerous awards and commissions including two grants from the National Endowment for the Arts and a Guggenheim fellowship, he has served as guest composer at a vast array of universities and music festivals and presented master classes throughout Europe, Asia, and South America. Freund is also active as a pianist, conductor, and lecturer. A professor of Composition at Indiana University’s Jacobs School of Music since 1992, his students from 40 years of teaching continue to win an impressive array of awards and recognitions.
+
+|||
+
+**_Mixed Blood_** was commissioned by the Utah Arts Festival and premiered at the Festival in June 2013. But the Latin feel of the music has much more to do with the South American countries I visited during my sabbatical the previous fall than with Salt Lake City. In this piece the blood of Latin rhythms and a tango tune is mixed with sounds and structures of American contemporary art music. Introduced in the low register of the flute with bass clarinet as a soft response after a hard-edged introduction, the tango tune (nicknamed “tune-go”) is clearly the star of the piece. But there are a couple tangential excursions, and the “groove chant” (my nickname for the very first idea heard in the piece, built on rocking perfect fourths) returns several times, eventually as an extended run-on that builds to the final climactic reprise of the “tune-go” in octaves in the violin.

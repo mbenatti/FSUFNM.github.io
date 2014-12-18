@@ -92,7 +92,7 @@
 
 /* #Links
 ================================================== */
-	a, a:visited { text-decoration: none; }
+	a, a:visited { text-decoration: none; font-weight: 700; }
 	a:hover, a:focus { text-decoration: underline; }
 	p a, p a:visited { line-height: inherit; }
 
@@ -531,7 +531,7 @@ html { box-sizing: border-box; }
   
   nav .p-about { border-color: #111111; }
   #about { background-color: #111111 !important; color: #f8f8f8; }
-  #about a { color: #f8f8f8; font-weight: bold; }
+  #about a { color: #f8f8f8; font-weight: 700; }
   
     #about .sectiondivider { color: #111111; }
   
@@ -539,9 +539,19 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-notes { border-color: #782F40; }
+  #notes { background-color: #782F40 !important; color: #CEB888; }
+  #notes a { color: #CEB888; font-weight: 700; }
+  
+    #notes .sectiondivider { color: #782F40; }
+  
+
+  
+  
+  
   nav .p-program { border-color: #f8f8f8; }
   #program { background-color: #f8f8f8 !important; color: #111111; }
-  #program a { color: #111111; font-weight: bold; }
+  #program a { color: #111111; font-weight: 700; }
   
     #program .sectiondivider { color: #111111; }
   
@@ -551,7 +561,7 @@ html { box-sizing: border-box; }
   
   nav .p-events { border-color: #CEB888; }
   #events { background-color: #CEB888 !important; color: #111111; }
-  #events a { color: #111111; font-weight: bold; }
+  #events a { color: #111111; font-weight: 700; }
   
     #events .sectiondivider { color: #CEB888; }
   
@@ -561,7 +571,7 @@ html { box-sizing: border-box; }
   
   nav .p-guests { border-color: #782F40; }
   #guests { background-color: #782F40 !important; color: #CEB888; }
-  #guests a { color: #CEB888; font-weight: bold; }
+  #guests a { color: #CEB888; font-weight: 700; }
   
     #guests .sectiondivider { color: #782F40; }
   
@@ -571,7 +581,7 @@ html { box-sizing: border-box; }
   
   nav .p-intro { border-color: #f8f8f8; }
   #intro { background-color: #f8f8f8 !important; color: #111111; }
-  #intro a { color: #111111; font-weight: bold; }
+  #intro a { color: #111111; font-weight: 700; }
   
     #intro .sectiondivider { color: #111111; }
   
@@ -740,7 +750,6 @@ nav ul li:hover, nav ul li.active a {
   min-height:0;
   text-align:center;
   background-color:#111111;
-  background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
 

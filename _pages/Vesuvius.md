@@ -1,0 +1,11 @@
+---
+composer: "Iannaccone Anthony"
+composition: "Dancing on Vesuvius"
+date: 2009
+performers: "Alexander Jiménez, conductor"
+---
+Composer-conductor **Anthony Iannaccone** studied at the Manhattan School of Music and the Eastman School of Music. His principal teachers were Vittorio Giannini, Aaron Copland, and David Diamond. During the 1960s he supported himself as part-time teacher (Manhattan School) and orchestral violinist, and he taught at Eastern Michigan University for 42 years. Many of his more than 50 published works have received awards and are performed by major orchestras and chamber ensembles in the U.S. and abroad. An active conductor of new music and standard orchestral repertory, his *WAITING FOR SUNRISE ON THE SOUND* received a Second Prize in the London Symphony Orchestra Masterprize competition from a field of 1151 works. Describing his music, the New Grove Dictionary states, “organic growth inspires music of great strength and formal clarity, as opening bars generate the textural and thematic contours that forge contrasting sections of reflection and cross-rhythmic dynamism."
+
+|||
+
+In 1933, Alban Berg wrote the following in a letter to his wife: "They’ve been dancing and stamping all through the night…the whole town… drowned in carnival din, masks and confetti. And on top of that the news of the Reichstag fire. DANCING ON A VOLCANO!" The Reichstag fire was a pivotal event in the Nazi takeover of Germany. Berg’s ominous letter became the inspiration for the music of **_Dancing on Vesuvius_**. Much of *Dancing on Vesuvius* could be described as the perilous journey of a disguised waltz theme, which only briefly reveals itself as a true waltz. The rhythmic foreground is filled with life-affirming energy that, in a few instances, yields to brief flashbacks of quiet nostalgia. However, the kinetic surface masks a dark, underlying, turbulent disturbance that ultimately erupts like Vesuvius and completely engulfs the lyric waltz elements that appeared as a kind of musical metaphor for a benevolent and civilized society.

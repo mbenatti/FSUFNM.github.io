@@ -1,0 +1,11 @@
+---
+composer: "Bezborodko Oleg"
+composition: "Lion’s Breath"
+date: 2012
+performers: ""
+---
+**Oleg Bezborodko** is a Ukrainian pianist and composer. His works have been performed in Ukraine, USA, Switzerland, Denmark, Germany, Russia, Lithuania, France, Greece, Great Britain, Netherlands, Poland, China, Portugal, Turkey, and published in Germany and Ukraine. Performances of Oleg’s music include those by ensemble “musikFabrik”, Stephen Gutman, Roglit Ishay, Dima Tkachenko, Loussine Azizian, string quartet “Collegium,” Kiev Piano Duo, “New Muse” piano duo, Kiev Chamber Orchestra, Symphony Orchestra of the Kiev National Philarmony, Orchestra of the National Opera of Ukraine and others. Oleg was a prizewinner of many national and international piano competitions. His music has been recognized with awards including the Revutsky Prize from the Ukrainian Ministry of Culture, Kiev Mayor Grant, and the “Gradus ad Parnassum” prize. Oleg Bezborodko has a Ph.D. degree from the Ukrainian National Academy of Music and holds a post of full-time associate professor (piano classes) at this institution.
+
+|||
+
+In **_Lion’s Breath_** I tried to convey a sensation of something very ambiguous—light, evasive and at the same time strong and menacing. Image of lion's breath has a lot of connotations: from Middle Age legends to yoga poses. In my case there is an additional one: the idea for this title came to me from careful listening to the breathing of my new-born son whose name is Lev, which in Ukrainian means "lion."

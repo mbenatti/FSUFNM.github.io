@@ -1,0 +1,11 @@
+---
+composer: "Wingate Mark"
+composition: "Into the Laughing Sea"
+date: 2014
+performers: "Benjamin Sung, violin"
+---
+**Mark Wingate** is a composer on the faculty of the College of Music at Florida State University where he serves as Associate Professor of Composition and Director of Electroacoustic Music. Dr. Wingate came to FSU after co-founding and directing the Electronic Arts Studio at Istanbul Technical University in Turkey. He holds a D.M.A. from the University of Texas, during which time he composed lived in Stockholm as a Fulbright Scholar to Sweden. Wingate has been the recipient of numerous awards, including the Rome Prize, a Guggenheim Fellowship, and a National Endowment for the Arts Composer Fellowship. His electroacoustic works have received international acclaim at new music festivals such as the International Society for Contemporary Music’s World Music Days (Copenhagen and London), the Autumn International Festival of Contemporary Music (Warsaw), le Festival Rien à Voir (Montreal), the Acousmatic Experience (Amsterdam), the Pierre Schaeffer Concert de Bruits (Perugia), and many others.
+
+|||
+
+**_Into the Laughing Sea_** is a work for electric violin and live processing, specifically the program, Ableton Live, together with various other third party software plugin programs that work within Ableton on the Macintosh computer. The piece was inspired by a psychedelic drug experience, fortunately or unfortunately not my own, but described by a woman I heard on the radio who related her experience of seeing/hearing, “laughter turning into jewels falling from the sky.” I fell in love with that imagery. The piece was composed with the wonderful violinist, Ben Sung, in mind.
