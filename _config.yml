@@ -22,7 +22,7 @@ description: "Florida State University 2015 Festival of New Music"
 source_link: "https://github.com/fsufnm/FSUFNM.github.io"
 favicon:     "img/favicon.png"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: AIzaSyD6vMGlrmIjTQZ20k0QSvmqbGxo0Z61Hik ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-57870929-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
