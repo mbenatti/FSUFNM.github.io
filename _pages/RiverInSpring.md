@@ -1,8 +1,9 @@
 ---
 composer: "Kubík Ladislav"
 composition: "River in Spring"
+subtitles: [Three Fragments of Franz Kafka's "The Great Wall of China"]
 date: 2014
-performers: "Phyllis Pancella, mezzo soprano"
+performers: "Phyllis Pancella, mezzo soprano; Nick Stevens, Catherine Cole, Eleanor Leclair, Chase Banks, and John McGovern, percussion; Alexander Jiménez, conductor"
 ---
 **Ladislav Kubík** (born in Prague, Czechoslovakia) has served as Professor of Composition at Florida State University since 1991. He is the recipient of many awards and prizes, including the Guggenheim Fellowship, distinctions from the UNESCO International Rostrum of Composers in Paris, France; Prix Italia in Venice, Italy; World Music Contest in Kerkrade, Netherlands; the Intervision Prize in Prague, Czech Republic; and a three time recipient of the Florida Individual Artist Fellowship, among others. His works have been commissioned by the Salzburg Festival, Radio France; the Center for Diffusion of Contemporary Music in Madrid, Spain; the Czech Music Foundation, and other prestigious music institutions. His works have been performed in 24 countries. More than thirty of his recorded works are available for purchase through the Col Legno and NEOS record labels. His scores are published by Triga Publishers and distributed by Schott Music International. Since 1994, Ladislav has served as the president and artistic director of the popular CASMI International Summer Program in Composition in his native city of Prague.
 
@@ -12,7 +13,7 @@ Franz Kafka (1883–1924) holds a special place in the 20th century arts. His in
 
 In the mid-1990s (especially between 1993 and 1997) Kubík turned his attention to the legacy of Franz Kafka. During this period he composed three compositions based on selections from Kafka’s texts (_The Way_, awarded The International Franz Kafka Prize in Prague; the original version of _River in Spring_; and _In Night_ for various solo voices and chamber ensembles). Today’s performance is the premiere of a newly revised version of **_River in Spring_** (2014). The work contains three fragments from Kafka’s short story, "The Great Wall of China."
 
-–Text–
+Franz Kafka: Three Fragments of 'The Great Wall of China' 
 
 I can still remember quite well us standing as small children,  
 Scarcely sure on our feet in our teacher's garden  

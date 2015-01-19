@@ -2,7 +2,25 @@
 composer: "Bellor Jennifer"
 composition: "Skylark Lullaby"
 date: 2014
-performers: "FSU SaxoChoir"
+performers: "FSU SaxoChoir: Matt Bishop, conductor
+
+Alto
+Mia Hartley
+Alissa Kanocz
+Scotty Phillips, principal
+
+Tenor
+Joey Crittenden
+Ian Crumpton
+Galo Morales, principal
+
+Baritone
+Bryan McNamara, principal
+Matt Wessner
+Tyler Young
+
+Bass
+John McCoy"
 ---
 **Jennifer Bellor** is a versatile composer who enjoys collaborating with classical and jazz musicians, singers, dancers, librettists, and visual artists. Her works have been presented by the Washington National Opera, the American Composers Orchestra, the Cuong Vu Trio, the Eastman Saxophone Project, the Buffalo Philharmonic, the Central Connecticut State University Wind Ensemble, the University of Massachusetts Amherst Wind Ensemble, the Eastman Wind Ensemble, the Eastman New Jazz Ensemble, and many others in the United States and abroad. She received a 2013 DownBeat award for her composition *Midnight Swim* for big band. Additionally, she was commissioned by the Washington National Opera's American Opera Initiative to write a 20-minute opera, *Duffy's Cut*, that was premiered at the Kennedy Center in November 2013. Bellor received a Ph.D. in Music Composition at the Eastman School of Music, a Master of Music degree in Composition at Syracuse University, and a Bachelor of Arts degree in Music at Cornell University.
 
