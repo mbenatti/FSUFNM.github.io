@@ -539,6 +539,16 @@ html { box-sizing: border-box; }
   
   
   
+  nav .p-biographies { border-color: #CEB888; }
+  #biographies { background-color: #CEB888 !important; color: #782F40; }
+  #biographies a { color: #782F40; font-weight: 700; }
+  
+    #biographies .sectiondivider { color: #CEB888; }
+  
+
+  
+  
+  
   nav .p-notes { border-color: #782F40; }
   #notes { background-color: #782F40 !important; color: #CEB888; }
   #notes a { color: #CEB888; font-weight: 700; }
