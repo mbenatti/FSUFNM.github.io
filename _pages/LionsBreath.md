@@ -2,7 +2,7 @@
 composer: "Bezborodko Oleg"
 composition: "Lion’s Breath"
 date: 2012
-performers: "Kallie Rogers, flute; Lisa Kachouee, clarinet; Marianna Cutright, violin; Jordan Galvarino, cello; Chad Spears, piano"
+performers: "Kallie Rogers, flute; Lisa Kachouee, clarinet; Marianna Cutright, violin; Jordan Galvarino, cello; Chad Spears, piano; Jamie Whitmarsh, conductor"
 ---
 **Oleg Bezborodko** is a Ukrainian pianist and composer. His works have been performed in Ukraine, USA, Switzerland, Denmark, Germany, Russia, Lithuania, France, Greece, Great Britain, Netherlands, Poland, China, Portugal, Turkey, and published in Germany and Ukraine. Performances of Oleg’s music include those by ensemble “musikFabrik”, Stephen Gutman, Roglit Ishay, Dima Tkachenko, Loussine Azizian, string quartet “Collegium,” Kiev Piano Duo, “New Muse” piano duo, Kiev Chamber Orchestra, Symphony Orchestra of the Kiev National Philarmony, Orchestra of the National Opera of Ukraine and others. Oleg was a prizewinner of many national and international piano competitions. His music has been recognized with awards including the Revutsky Prize from the Ukrainian Ministry of Culture, Kiev Mayor Grant, and the “Gradus ad Parnassum” prize. Oleg Bezborodko has a Ph.D. degree from the Ukrainian National Academy of Music and holds a post of full-time associate professor (piano classes) at this institution.
 

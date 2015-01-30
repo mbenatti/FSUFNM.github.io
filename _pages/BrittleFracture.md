@@ -1,10 +1,10 @@
 ---
-composer: "Stafylakis Haralobos"
+composer: "Stafylakis Harry"
 composition: "Brittle Fracture"
 date: 2013
 performers: "Matthew Bishop, conductor"
 ---
-**Haralabos** (Harry) **Stafylakis** is a Canadian-American composer based in New York City. Stafylakis's works have been performed by the Israel Chamber Orchestra, the McGill Symphony Orchestra, ICE, Mivos Quartet, Cygnus, and the American Modern Ensemble and have been featured at numerous festivals and conferences. Awards include the Charles Ives Fellowship from the American Academy of Arts and Letters, four SOCAN Foundation Awards, and support from the Canada Council for the Arts. A graduate of McGill University, Stafylakis is currently a Graduate Teaching Fellow at the CUNY Graduate Center, studying with Jason Eckardt and David Del Tredici, and serving on the music faculty at City College of New York. His doctoral research, supported by the Social Sciences and Humanities Research Council (SSHRC) of Canada, examines the conception of rhythm and meter in progressive metal and the potential adaptation of studio production techniques to instrumental composition.
+**Harry Stafylakis** is a Canadian-American composer based in New York City. Stafylakis's works have been performed by the Israel Chamber Orchestra, the McGill Symphony Orchestra, ICE, Mivos Quartet, Cygnus, and the American Modern Ensemble and have been featured at numerous festivals and conferences. Awards include the Charles Ives Fellowship from the American Academy of Arts and Letters, four SOCAN Foundation Awards, and support from the Canada Council for the Arts. A graduate of McGill University, Stafylakis is currently a Graduate Teaching Fellow at the CUNY Graduate Center, studying with Jason Eckardt and David Del Tredici, and serving on the music faculty at City College of New York. His doctoral research, supported by the Social Sciences and Humanities Research Council (SSHRC) of Canada, examines the conception of rhythm and meter in progressive metal and the potential adaptation of studio production techniques to instrumental composition.
 
 |||
 

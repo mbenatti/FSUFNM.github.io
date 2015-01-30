@@ -43,11 +43,14 @@ fa-icon: music
 [Corinne Stillwell](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Corinne-Stillwell) ·
 [Benjamin Sung](http://www.music.fsu.edu/Faculty-and-Staff/Faculty/Ben-Sung) ·
 [Shannon Thomas](http://www.shannonthomasviolin.com/#!biography/c1enr) ·
+[Jamie Whitmarsh](http://www.jamiewhitmarsh.com/) ·
 [Sarah Jane Young](http://www.whatisnoise.net/sarah-jane/)
 
 Chase Banks is currently pursuing a Bachelor’s degree in Music Education, under percussion professor John W. Parks IV. He has performed with Florida’s Collegiate All-State Band, FSU’s Wind Orchestra, Symphonic Band, University Philharmonia,Concert Band, and Percussion Ensemble. He has recorded with the FSU Percussion Ensemble for their CD “Not Far From Here.” Chase has also recorded for Adam Silverman’s CD “Percussion Music,” and Blake Tyson’s CD “Firefish.”
 
 Olivia Boatman is currently working on a Doctor of Musical Arts in flute performance at the Florida State University.  She holds a Master of Music in flute performance from Arkansas State University and a Bachelor of Music Education from Mississippi State University.  Olivia served as the piccoloist and second flutist with the Starkville/MSU Symphony Orchestra from 2004-2013.  While living in Arkansas, she held the position of substitute second flutist and piccoloist with the Delta Symphony and was a Graduate Assistant for the Department of Music.  Olivia gave her solo debut in 2012 performing Joel Puckett’s The Shadow of Sirius with the Arkansas State University.  Olivia has studied flute under the private instruction of Sophie Kershaw, Carol Dale, Lana Johns, Joe Bonner, and Eva Amsler.
+
+Michael Casey is currently pursuing a doctorate in tuba performance with Paul Ebbers at FSU. He earned is Bachelor of Music from SUNY Potsdam in 2011 and received his Master of Music from FSU in 2014.
 
 Marianna Cutright holds a Bachelor of Music degree from the University of Maryland and is currently pursuing a master's in violin performance at Florida State University. She has studied with David Salness, Oleg Rylatko, Felicia Moye, and Corrine Stillwell.  As an avid chamber musician, Miss Cutright has studied with the Left Bank and Guarneri String Quartets, and held a fellowship with the Marian Anderson String Quartet last summer. Marianna is a member of the Ocala Symphony Orchestra and the Tallahassee Symphony Orchestra.
 
